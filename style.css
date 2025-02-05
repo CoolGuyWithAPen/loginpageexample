@@ -18,6 +18,7 @@ button {
   width: 100px;
 }
 body {
+  overflow: hidden;
   background-image: url(backround.jpg);
   text-align: center;
   background-repeat: no-repeat;
